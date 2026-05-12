@@ -1,0 +1,20 @@
+{
+  "name": "eventlookup",
+  "version": "3.0.0",
+  "description": "Fast Windows Event ID reference for SOC analysts — search, filter, and investigate with MITRE ATT&CK mapping",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve -l 3000",
+    "start": "npx serve -l 3000"
+  },
+  "keywords": [
+    "windows",
+    "event-id",
+    "security",
+    "soc",
+    "mitre-attack",
+    "sysmon",
+    "blue-team"
+  ],
+  "license": "MIT"
+}
